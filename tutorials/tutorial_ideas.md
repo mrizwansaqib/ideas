@@ -1,3 +1,3 @@
 #tutorial ideas 
-[]just have a idea
+[x]just have a idea
 []what an idea
